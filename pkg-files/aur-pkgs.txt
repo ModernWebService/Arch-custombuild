@@ -20,3 +20,7 @@ snapper-gui-git
 ttf-meslo
 vde2
 zoom
+sublime-text
+visual-studio-code-bin
+kwin-bismuth-bin
+neofetch
